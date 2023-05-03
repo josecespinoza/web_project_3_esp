@@ -1,0 +1,6 @@
+.place__paragraph-container {
+  grid-area: paragraphs;
+  display: flex;
+  flex-direction: column;
+  row-gap: 30px;
+}

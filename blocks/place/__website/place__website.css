@@ -1,0 +1,4 @@
+.place__website {
+  grid-area: artists;
+  align-self: end;
+}
