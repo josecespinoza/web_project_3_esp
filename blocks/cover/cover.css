@@ -1,0 +1,9 @@
+.cover {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 740px;
+  width: 80%;
+  overflow: hidden;
+}

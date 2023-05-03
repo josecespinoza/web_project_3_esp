@@ -1,0 +1,10 @@
+.cover__background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url("../../../images/cover.jpg");
+  width: 100%;
+  padding-bottom: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
