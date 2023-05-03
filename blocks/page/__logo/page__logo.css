@@ -1,0 +1,8 @@
+.page__logo {
+  margin-top: 34px;
+  margin-bottom: 90px;
+  grid-area: logo;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
