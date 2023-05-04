@@ -10,4 +10,12 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  transition: background-color 0.3s linear;
+  text-decoration: none;
+  color: inherit;
+  z-index: 3;
+}
+
+.button:hover {
+  background-color: #0063d2;
 }
