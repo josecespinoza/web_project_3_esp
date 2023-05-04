@@ -1,8 +1,0 @@
-.cover__content-wrapper {
-  z-index: 3;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  row-gap: 32px;
-}
