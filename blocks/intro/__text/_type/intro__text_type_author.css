@@ -2,4 +2,24 @@
   text-align: right;
   margin-top: -20px;
   margin-bottom: 32px;
+  align-self: end;
+  line-height: 1.42;
+}
+
+@media screen and (max-width: 320px) {
+  .intro__text_type_author {
+    margin-bottom: 0;
+  }
+}
+
+@media screen and (max-width: 712px) {
+  .intro__text_type_author {
+    margin-top: 0;
+  }
+}
+
+@media screen and (min-width: 339px) and (max-width: 505px) {
+}
+
+@media screen and (min-width: 505px) and (max-width: 767px) {
 }

@@ -1,5 +1,11 @@
 .intro__text_type_quote {
-  width: 722px;
-  line-height: 1.4;
+  max-width: 722px;
+  line-height: 1.42;
   font-weight: 400;
+}
+
+@media screen and (max-width: 712px) {
+  .intro__text_type_quote {
+    line-height: 1.25;
+  }
 }

@@ -1,2 +1,10 @@
 .container__main {
+  margin: 0 24px 0;
+  max-width: 1017px;
+}
+
+@media screen and (max-width: 497px) {
+  .container__main {
+    margin: 0 16px 0;
+  }
 }

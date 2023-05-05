@@ -1,0 +1,7 @@
+.intro__quote-wrapper {
+  display: flex;
+  justify-content: start;
+  align-items: start;
+  flex-direction: column;
+  max-width: 722px;
+}
