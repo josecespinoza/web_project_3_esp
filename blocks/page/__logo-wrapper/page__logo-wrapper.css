@@ -1,0 +1,14 @@
+.page__logo-wrapper {
+  margin-top: 34px;
+  margin-bottom: 90px;
+  grid-area: logo;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+@media screen and (max-width: 320px) {
+  .page__logo-wrapper {
+    margin-bottom: 50.15px;
+  }
+}
