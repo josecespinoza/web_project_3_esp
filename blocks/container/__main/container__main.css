@@ -3,7 +3,7 @@
   max-width: 1017px;
 }
 
-@media screen and (max-width: 497px) {
+@media screen and (max-width: 560px) {
   .container__main {
     margin: 0 16px 0;
   }
