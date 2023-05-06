@@ -1,7 +1,15 @@
 .cover__background {
-  width: 100%;
-  z-index: 2;
   background-image: url("../../../images/cover.jpg");
-  background-size: cover;
+  background-size: contain;
   background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  padding-bottom: 62%;
+}
+
+@media screen and (max-width: 800px) {
+  .cover__background {
+    background-size: cover;
+    padding-bottom: 100%;
+  }
 }
