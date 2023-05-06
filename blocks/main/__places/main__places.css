@@ -1,3 +1,12 @@
 .main__places {
   margin-bottom: 92px;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
+@media screen and (max-width: 560px) {
+  .main__places {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
 }

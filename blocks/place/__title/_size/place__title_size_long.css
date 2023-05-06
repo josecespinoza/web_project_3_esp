@@ -2,7 +2,7 @@
   width: 120%;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 560px) {
   .place__title_size_long {
     width: 100%;
   }
