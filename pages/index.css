@@ -43,7 +43,7 @@
 @import url("../blocks/cover/__content-wrapper/cover__content-wrapper.css");
 @import url("../blocks/cover/__background/cover__background.css");
 @import url("../blocks/cover/__overlay/cover__overlay.css");
-@import url("../blocks/content/__cover/_effect-on/content__cover_effect-on_overlay.css");
+@import url("../blocks/cover/_effect-on/cover_effect-on_overlay.css");
 @import url("../blocks/cover/__subtitle/cover__subtitle.css");
 @import url("../blocks/cover/__subtitle-paragraph/cover__subtitle-paragraph.css");
 @import url("../blocks/cover/__title/cover__title.css");
