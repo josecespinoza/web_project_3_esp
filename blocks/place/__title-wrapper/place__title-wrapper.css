@@ -1,4 +1,5 @@
 .place__title-wrapper {
   width: 100%;
   overflow: visible;
+  align-self: center;
 }

@@ -41,7 +41,6 @@
 @import url("../blocks/button/_action/button_action_buy-tickets.css");
 @import url("../blocks/cover/cover.css");
 @import url("../blocks/main/__cover/main__cover.css");
-@import url("../blocks/cover/__content-wrapper/cover__content-wrapper.css");
 @import url("../blocks/cover/__background/cover__background.css");
 @import url("../blocks/cover/__overlay/cover__overlay.css");
 @import url("../blocks/main/__cover/_effect-on/main__cover_effect-on_overlay.css");

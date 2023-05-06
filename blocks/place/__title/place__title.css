@@ -6,4 +6,34 @@
   font-weight: 900;
   font-size: 72px;
   align-self: end;
+  line-height: 1.06;
+}
+
+@media screen and (max-width: 430px) {
+  .place__title {
+    font-size: 32px;
+    margin-bottom: 30px;
+    line-height: 1.09;
+  }
+}
+
+@media screen and (min-width: 430px) and (max-width: 606px) {
+  .place__title {
+    font-size: 32px;
+    line-height: 1.09;
+  }
+}
+
+@media screen and (min-width: 607px) and (max-width: 868px) {
+  .place__title {
+    font-size: 42px;
+    line-height: 1.09;
+  }
+}
+
+@media screen and (min-width: 868px) and (max-width: 980px) {
+  .place__title {
+    font-size: 50px;
+    line-height: 1.1;
+  }
 }

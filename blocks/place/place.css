@@ -3,12 +3,27 @@
   padding: 0;
   margin: 0;
   display: grid;
-  grid-template-columns: 460px 1fr;
-  grid-template-rows: 152px 460px 1fr;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
   grid-template-areas:
     "title artists"
     "image paragraphs"
-    "button paragraphs";
+    "button paragraphs"
+    ". paragraphs";
   row-gap: 48px;
   column-gap: 40px;
+}
+
+@media screen and (max-width: 500px) {
+  .place {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    grid-template-areas:
+      "title"
+      "artists"
+      "image"
+      "paragraphs"
+      "button";
+    row-gap: 0;
+  }
 }
