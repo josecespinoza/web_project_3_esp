@@ -9,33 +9,27 @@
   margin-bottom: 32px;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 768px) {
   .lead__title {
-    font-size: 40px;
-    margin-bottom: 60px;
     line-height: 1.1;
   }
 }
 
-@media screen and (min-width: 321px) and (max-width: 339px) {
+@media screen and (max-width: 339px) {
   .lead__title {
     font-size: 40px;
     margin-bottom: 60px;
-    line-height: 1.1;
   }
 }
 
-@media screen and (min-width: 339px) and (max-width: 505px) {
+@media screen and (min-width: 340px) and (max-width: 505px) {
   .lead__title {
     font-size: 60px;
-    margin-bottom: 99px;
-    line-height: 1.1;
   }
 }
 
-@media screen and (min-width: 505px) and (max-width: 768px) {
+@media screen and (min-width: 340px) and (max-width: 768px) {
   .lead__title {
     margin-bottom: 99px;
-    line-height: 1.1;
   }
 }
