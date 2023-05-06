@@ -1,0 +1,9 @@
+.cover__content-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 32px;
+  z-index: 3;
+  position: absolute;
+}
