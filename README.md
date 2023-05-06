@@ -1,19 +1,22 @@
-# Project 3: De patria a patria
-### Descripción general    
-* Introducción  
-* Figma  
-* Imágenes  
-  
-**Introducción**    
-  
-Este es un proyecto que muestra las ciudades natales de algunos de los empleados de Practicum. Lo hemos diseñado de tal modo que todos los elementos se muestren correctamente en los tamaños de pantalla más habituales. Recomendamos invertir más tiempo en completar este proyecto, ya que es más difícil que los anteriores.     
-  
-**Figma**  
-  
-* [Enlace al proyecto en Figma](https://www.figma.com/file/ZW8wxTYTZH2czTTfDMVHWq/WEB%2C-Sprint-3-%3A-De-patria-a-patria-%7C-desktop-%2B-mobile?node-id=0%3A1)  
-  
-**Imágenes**  
-  
-A la hora de trabajar, debes optar por exportar las imágenes directamente desde Figma; te recomendamos hacerlo para practicar más. No olvides optimizarlas [aquí](https://tinypng.com/), para que tu proyecto cargue más rápido.   
-  
-¡Mucha suerte y que te lo pases bien! 
+# De patria a patria
+
+### **Descripción**
+
+#### Caracteristicas
+
+En esta aplicación se muestran las ciudades natales de algunos integrantes del bootcamp de Practicum. Puede ser visualizada en distintos dispositivos (que cuenten con pantalla).
+
+#### Funcionalidades
+
+De momento la aplicación cuenta con una sola página.
+
+#### Tecnologías
+
+#### En el presente proyecto se utilizó HTML y CSS con la metodología BEM.
+
+---
+
+### **Instrucciones de despliegue y requisitos del sistema**
+
+La aplicación puede desplegarse copiando todo el proyecto a algún host, o en un ambiente local.
+Idealmente se requiere tener instalada la fuente "Inter".
